@@ -8,7 +8,7 @@
     <meta name="author" content="http://bootstraptaste.com">
     <link rel="shortcut icon" href="assets/img/favicon.png">
 
-    <title>Webuild - Free Bootstrap coming soon template with countdown</title>
+    <title>Webuild - Free Bootstrap caoming soon template with countdown</title>
 
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
